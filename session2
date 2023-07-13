@@ -1,0 +1,4 @@
+Steps to push the code in git repo:
+1. git init: It add the git in our project
+2. git branch -M main: It make the main branch name as "main" in case it is "Master" or something else. As on github "main" is the main branch.
+3. 
